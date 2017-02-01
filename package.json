@@ -1,0 +1,14 @@
+{
+  "name": "skiplist",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "7.0.4",
+    "supertest": "0.15.0"
+  }
+}
