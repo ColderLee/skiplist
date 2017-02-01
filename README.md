@@ -1,5 +1,5 @@
 # skiplist
-a simple skip list implementation.
+a simple skip list implementation.   
 
-maybe contain some unnoticed bugs..
+maybe contain some unnoticed bugs..    >_<||| 
 for example: format_print
